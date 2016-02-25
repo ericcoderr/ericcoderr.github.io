@@ -278,4 +278,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 .friend-link {/* padding:10px */}
 .friend-link a {margin-right: 10px; white-space: nowrap;}
 
-/*==========
+/*** ***************************************/
+#disqus_container {font-size:12px;} 
+#disqus_container a.comment{font-size:14px;} 
+
