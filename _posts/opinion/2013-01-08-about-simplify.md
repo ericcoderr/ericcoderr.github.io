@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 胡言乱语说简单
+title: 不知道写什么，空着
+
 category: opinion
-description: 胡言乱语而已，看看就好。
+description: 胡言乱语。
 ---
 
 ##最初的简单
