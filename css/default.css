@@ -232,6 +232,40 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     _width:10px;
 }
 
+.page-ctrl {
+    overflow: hidden;
+    padding-top: 20px;
+    font-family: 宋体;
+    color: #202020;
+    font-weight: bold;
+    zoom: 1;color: #4A75B5;
+    border-top: 1px solid #4A75B5;
+    margin-top: 20px;
+}
+.page-ctrl a {
+    display: inline-block;
+    max-width: 250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    vertical-align: text-bottom;
+}
+.page-ctrl *:hover {
+    color:red;
+}
+.page-old {
+    float: left;
+}
+.page-old a{
+    margin-left: 6px;
+}
+.page-new {
+    float: right;
+}
+.page-new a{
+    margin-right: 6px;
+}
+
 /*==========
    sidebar
 ============*/
