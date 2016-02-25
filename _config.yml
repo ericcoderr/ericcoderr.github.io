@@ -1,10 +1,20 @@
 auto: true
+# 
+# Blog Settings 
+# 
 
+# Jekyll Settings
 markdown: rdiscount
 pygments: true
 paginate: 8
 permalink: /:title
+paginate_path: /page:num
 
+#Disqus Comments
+disqus_short_name: youyisi 
+17 disqus_show_comment_count: true 
+
+#author
 title: ericcoderr.github.io
 url: http://ericcoderr.github.io
 feed: /atom.xml
