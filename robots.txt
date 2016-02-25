@@ -1,0 +1,3 @@
+Sitemap: http://ericcoderr.github.com/sitemap.xml 
+User-agent: * 
+Allow: / 
