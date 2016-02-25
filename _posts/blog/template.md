@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[Ericcoderr]:   http://ericcoderr.github.io/  "Ericcoderr"
